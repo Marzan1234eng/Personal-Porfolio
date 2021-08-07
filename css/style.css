@@ -1,0 +1,98 @@
+/*===========Top Section Start===========*/
+.container-fluid{
+    background-image: url("../images/header-bg.png");
+    background-repeat: no-repeat;
+}
+
+.image-col{
+    width: 100%;
+}
+.head-text{
+    font-family: 'Style Script', cursive;
+    font-weight: bold;
+}
+.title{
+    color: deeppink;
+    font-family: 'Style Script', cursive;
+}
+.paragraph{
+    text-align: justify;
+}
+
+.git-button{
+    background-image: linear-gradient(to right, #ff5da5 0%, #ff58c9 100%);
+    font-weight: bold;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+.git-button a{
+    text-decoration: none;
+    color: white;
+}
+/*===========Top Section End===========*/
+
+/*<!--===========Latest Work Section Start===========-->*/
+.latest-work-bg{
+    background-image: url("../images/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+
+.latest-work-text{
+    margin: 50px auto;
+    font-family: 'Style Script', cursive;
+    text-align: center;
+    font-weight: bold;
+}
+
+.card{
+    border: none;
+}
+
+.card-body{
+    margin: 20px 0;
+    text-align: center;
+}
+/*<!--===========Latest Work Section End===========-->*/
+
+/*<!--===========Client Section Start===========-->*/
+
+.client-name, .client-position{
+    text-align: center;
+}
+
+.client-name{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.client-position{
+    color: gray;
+}
+
+.client-comment{
+    margin: 50px 0;
+    text-align: center;
+    font-weight: 400;
+}
+
+.info-section{
+    margin: 100px 0;
+    text-align: center;
+}
+
+.email-text{
+    font-family: 'Style Script', cursive;
+}
+
+.client-card{
+    background-image: linear-gradient(to right, #ff5da5 0%, #ff58c9 100%);
+    color: white;
+    border-radius: 10px;
+}
+/*<!--===========Client Section End===========-->*/
+
+footer{
+    text-align: center;
+}
